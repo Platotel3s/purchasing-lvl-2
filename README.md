@@ -179,8 +179,8 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah ber
 Proyek ini dilisensikan di bawah MIT License.
 👨‍💻 Tim Pengembang
 
-    Syaiful Yudha Platoteles - 🚀 Project Lead
+    Syaiful Yudha Platoteles - 🚀 Project Lead & 🖥️ Fullstack Developer
 
-    Syaiful Yudha Platoteles - 🖥️ Fullstack Developer
+    
 
 Dengan Aplikasi Purchasing Barang, kami berharap dapat memberikan solusi digital yang memudahkan pengelolaan pergudangan dan meningkatkan efisiensi operasional. Terima kasih telah menggunakan aplikasi ini! 😊
