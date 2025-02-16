@@ -71,45 +71,35 @@ Lainnya
 1. Instalasi
 
     Clone repository ini:
-    bash
-    Copy
 
-    git clone https://github.com/Platotel3s/purchasing-lvl-2.git
+        git clone https://github.com/Platotel3s/purchasing-lvl-2.git
 
     Install dependencies:
-    bash
-    Copy
 
-    composer install
-    npm install
+        composer install
+        npm install
 
     Buat file .env dan sesuaikan konfigurasi database:
-    env
-    Copy
 
-    DB_DATABASE=nama_database
-    DB_USERNAME=username
-    DB_PASSWORD=password
+        DB_DATABASE=nama_database
+        DB_USERNAME=username
+        DB_PASSWORD=password
 
     Jalankan migrasi dan seeder:
-    bash
-    Copy
 
-    php artisan migrate --seed
+        php artisan migrate --seed
 
     Jalankan aplikasi:
-    bash
-    Copy
+   
+        php artisan serve
 
-    php artisan serve
-
-2. Login
+3. Login
 
     🌐 Buka aplikasi di browser.
 
     🔑 Login menggunakan akun yang telah terdaftar (admin, buyer, atau purchaser).
 
-3. Penggunaan Berdasarkan Role
+4. Penggunaan Berdasarkan Role
 
     👨‍💼 Admin: Kelola data barang, pengguna, dan lihat laporan.
 
@@ -152,34 +142,29 @@ Kelebihan
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
 
-    Fork repository ini.
+Fork repository ini.
 
-    Buat branch baru:
-    bash
-    Copy
+Buat branch baru:
 
-    git checkout -b fitur-baru
+        git checkout -b fitur-baru
 
-    Commit perubahan Anda:
-    bash
-    Copy
+Commit perubahan Anda:
 
     git commit -m "Menambahkan fitur baru"
 
-    Push ke branch:
-    bash
-    Copy
+Push ke branch:
 
     git push origin fitur-baru
-
-    Buat pull request.
+    
 
 📜 Lisensi
 
 Proyek ini dilisensikan di bawah MIT License.
-👨‍💻 Tim Pengembang
+👨‍💻 Tim Pengembang : <br>
 
-    Syaiful Yudha Platoteles - 🚀 Project Lead & 🖥️ Fullstack Developer
+    Syaiful Yudha Platoteles :
+        - 🚀 Project Lead 
+        - 🖥️ Fullstack Developer
 
     
 
